@@ -35,4 +35,4 @@ Showreel: https://youtu.be/N04RgN8cn3A
 
 Logboek: https://drive.google.com/file/d/1pwEMkDc257qnK5tFCL0_wQQfTCrZ55GN/view?usp=sharing
 
-Presentatie: 
+Presentatie: https://drive.google.com/file/d/1m0NNcVsRrAmFjOLKHZS-oOptNPcG7-eA/view?usp=sharing
