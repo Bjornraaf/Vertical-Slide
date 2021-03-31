@@ -3,6 +3,7 @@
 Team:
 1. Bjorn Ravensbergen.
 2. Ties Postma
+3. Jason Dikken
 4. Lucas de Kuyper
 5. Sanne Kaat
 6. Yessie
