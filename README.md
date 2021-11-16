@@ -9,13 +9,20 @@ Team:
 6. Yessie
 7. Eva
 
+Mijn Aandeel:
+- Level Design
+- Movement
+
+Duur:
+ - 8 Weken
 
 ## Ontwerp
 Ten second remake van een level uit de game Cuphead.
 
-## Onderzoek
+## Software + Hardware
 Engine:
-- Unity (Virtual Studio Code 2019)
+- Unity 2020.2.2f1 (Virtual Studio Code 2019)
+- C#
 
 Overige software:
 - Github.
@@ -26,8 +33,6 @@ Hardware:
 ## Scrum
 Trello: https://trello.com/b/Lw4Y01fj/vertical-slide-2b-devs
 
-Github: https://github.com/Bjornraaf/Vertical-Slide
-
 ## Portfolio
 Reference: https://youtu.be/yk121puS6iI?t=62
 
@@ -35,4 +40,4 @@ Showreel: https://youtu.be/N04RgN8cn3A
 
 Logboek: https://drive.google.com/file/d/1pwEMkDc257qnK5tFCL0_wQQfTCrZ55GN/view?usp=sharing
 
-Presentatie: https://drive.google.com/file/d/1m0NNcVsRrAmFjOLKHZS-oOptNPcG7-eA/view?usp=sharing
+Diagram: https://drive.google.com/file/d/1CJmp6fjf-FPBj5a0OtOvQFOhl2X2p9-A/view?usp=sharing
