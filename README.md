@@ -9,10 +9,6 @@ Team:
 6. Yessie
 7. Eva
 
-Mijn Aandeel:
-- Level Design
-- Movement
-
 Duur:
  - 8 Weken
 
